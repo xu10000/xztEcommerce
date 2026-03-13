@@ -1,13 +1,10 @@
-## MERN Ecommerce: A Seamless Shopping Experience Powered by the MERN Stack, Redux Toolkit, and Material UI
+## XZT Ecommerce: A Seamless Shopping Experience Powered by the XZT Stack, Redux Toolkit, and Material UI
 
-### Also try -> [https://mernchat.in](https://mernchat.in)
-### ```Note✨: I have another amazing project on``` [end-to-end-encrypted-chat-application](https://github.com/RishiBakshii/mern-chat) ```using Next.js, Prisma, Postgresql, Express, Socket.io.```
+**XZT Ecommerce** is a full-stack application designed to transform your online shopping experience. Built with the XZT stack (MongoDB, Express.js, React, Node.js), it leverages Redux Toolkit for efficient state management and Material UI for a sleek, user-friendly interface. This project offers a robust platform for both users and admins, packed with essential features for a seamless experience.
 
-**MERN Ecommerce** is a full-stack application designed to transform your online shopping experience. Built with the MERN stack (MongoDB, Express.js, React, Node.js), it leverages Redux Toolkit for efficient state management and Material UI for a sleek, user-friendly interface. This project offers a robust platform for both users and admins, packed with essential features for a seamless experience.
-
-![ecommerce-homepage](https://github.com/RishiBakshii/mern-ecommerce/blob/main/frontend/src/assets/images/front.png?raw=true)
-<!-- ![ecommerce-banner](https://github.com/RishiBakshii/mern-ecommerce/blob/main/frontend/src/assets/images/banner4.png?raw=true) -->
-![ecommerce-banner](https://github.com/RishiBakshii/mern-ecommerce/blob/main/frontend/src/assets/images/banner3.png?raw=true)
+![ecommerce-homepage](https://github.com/xu10000/xztEcommerce/blob/master/frontend/src/assets/images/front.png?raw=true)
+<!-- ![ecommerce-banner](https://github.com/RishiBakshii/XZT-ecommerce/blob/main/frontend/src/assets/images/banner4.png?raw=true) -->
+![ecommerce-banner](https://github.com/xu10000/xztEcommerce/blob/master/frontend/src/assets/images/banner3.png?raw=true)
 
 
 # **Features**
@@ -58,13 +55,13 @@
 ### Clone the project
 
 ```bash
-  git clone https://github.com/RishiBakshii/mern-ecommerce.git
+  git clone https://github.com/xu10000/xztEcommerce.git
 ```
 
 ### Navigate to the project directory
 
 ```bash
-  cd mern-ecommerce
+  cd xztEcommerce
 ```
 
 ### Install dependencies for frontend and backend separately
@@ -148,13 +145,6 @@ REACT_APP_BASE_URL="http://localhost:8000"
 - Start the server: `npm start`
 - You should see a message indicating the server is running, usually on port 3000.
 
-### Login with demo account (Optional)
-- After successfully seeding the database, you can now explore the application's functionalities using pre-populated sample data.
-- here are the `login credentials`
-```bash
-  email: demo@gmail.com
-  pass: helloWorld@123
-```
 
 - **Please Note**: While the demo account provides a convenient way to explore many features, it has some limitations:
     - **Password Reset and OTP Verification**: Due to security reasons, the demo account uses a non-real email address. Therefore, password reset and OTP verification functionalities are not available for this account.
